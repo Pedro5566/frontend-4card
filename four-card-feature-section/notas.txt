@@ -1,0 +1,12 @@
+
+Pasos GITHUB:
+1.- Crear repositorio
+2.- git clone y el enlace del repositorio creado en github(Abrimos terminal y escribimos esta sentencia en una carpeta de escritorio o donde sea)
+3.- Copiamos nuestro proyecto a esta carpeta clonada que ha creado github.
+4.-git add .(accedemos a la carpeta que vamos a añadir un archivo o carpeta ponemos cd NombredeCarpeta).
+5.-git commit -am "comentario o titulo de la descripcion"
+6.-git push
+
+Nota:
+Para acceder a una ruta anterior a la que pone el terminal de vscode utilizamos cd..
+y si queremos acceder a una ruta o carpeta ponemos cd NombredeCarpeta.
